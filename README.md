@@ -22,14 +22,15 @@
 # 製作物履歴
 <br>
 <br>
- ## 高専時代の製作物
-  ### Web×IoTハッカソン　茨城大会出場
-最優秀賞取得  [Web×IoT ハッカソン　茨城大会　in 2019](https://webiotmakers.github.io/2018/ibaraki/)
+
+## 高専時代の製作物　　
+### Web×IoTハッカソン　茨城大会出場　　
+　　最優秀賞取得  [Web×IoT ハッカソン　茨城大会　in 2019](https://webiotmakers.github.io/2018/ibaraki/)　　　
 <br>
 <br>
-  <p>　作品名は **「Bridge」**　　</p>
-  <p　>観光地と観光客を結ぶデバイスとして名付けました。 </p> 
-  <p>　IoTデバイスをとおして、観光客と観光地を結ぶことで、当時魅力度ランキングが最下位だった、茨城県の観光業を活性化することが狙い。 </p> 
+作品名は **「Bridge」**　　
+観光地と観光客を結ぶデバイスとして名付けました。　　
+　　IoTデバイスをとおして、観光客と観光地を結ぶことで、当時魅力度ランキングが最下位だった、茨城県の観光業を活性化することが狙い。　　
 　
 <br>
 
@@ -38,13 +39,26 @@
 ## 大学以降の製作物
 
 ### ハッカソンの内容を地域のお祭りで実施
- <p> [茨城大学　地域参画プロジェクト](https://www.scc.ibaraki.ac.jp/wp-content/uploads/2020/06/R1-gakupro01.pdf)  </p> 
- <p> [Bridge」を実際に地域のお祭りで実装。 </p> 
- <p> 使用していただいた方々の性別や年代、地域がわかり今後につなげることができた。 </p> 
+[茨城大学　地域参画プロジェクト](https://www.scc.ibaraki.ac.jp/wp-content/uploads/2020/06/R1-gakupro01.pdf).   
+「Bridge」を実際に地域のお祭りで実装。
+使用していただいた方々の性別や年代、地域がわかり今後につなげることができた。 
+
+GoogleAppを使用して、Javascriptによる応答LINE Botを使用してパンフレット機能を追加した。  
+
+![20210825_032421329_iOS](https://user-images.githubusercontent.com/48234687/130721542-4b676361-7dfd-4e53-bcc9-cc1c1c503306.jpg)
+
+
+
 <br>
 <br>
+
+
 ### 初めてのiOSアプリ開発
- <p> [ToDoリストアプリ](https://github.com/hiroakissh/ToDoApp.git) </p>
+  [ToDoリストアプリ](https://github.com/hiroakissh/ToDoApp.git). 
+  
+  とにかく何か作ってみた
+  
+  
  
 
 -　　
