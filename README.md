@@ -62,6 +62,8 @@ GoogleAppを使用して、Javascriptによる応答LINE Botを使用してパ�
 ### 飲み物保存アプリ
   [飲み物保存アプリ](https://github.com/hiroakissh/Drinkmemory.git).
   
+### 大学の非公式アプリ
+ [大学の非公式アプリ](https://github.com/hiroakissh/IbarakiUiniversityApp.git).
   
  
 
