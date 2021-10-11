@@ -45,9 +45,7 @@
 
 GoogleAppを使用して、Javascriptによる応答LINE Botを使用してパンフレット機能を追加した。  
 
-![20210825_032421329_iOS](https://user-images.githubusercontent.com/48234687/130721542-4b676361-7dfd-4e53-bcc9-cc1c1c503306.jpg)
-
-
+<img src="https://user-images.githubusercontent.com/48234687/130721542-4b676361-7dfd-4e53-bcc9-cc1c1c503306.jpg" width="320px">
 
 <br>
 <br>
